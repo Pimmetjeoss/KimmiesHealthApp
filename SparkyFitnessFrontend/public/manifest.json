@@ -1,7 +1,7 @@
 {
-  "name": "SparkyFitness",
-  "short_name": "SparkyFit",
-  "description": "Your Personal Fitness Companion",
+  "name": "Kimmie's Health App",
+  "short_name": "Kimmies",
+  "description": "Kim's Personal Health Companion",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

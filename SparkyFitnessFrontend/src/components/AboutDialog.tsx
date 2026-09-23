@@ -58,14 +58,14 @@ const AboutDialog: React.FC<AboutDialogProps> = ({
       <AlertDialogContent ref={contentRef}>
         <AlertDialogHeader>
           <AlertDialogTitle>
-            {t('aboutDialog.title', 'About SparkyFitness')}
+            {t('aboutDialog.title', "About Kimmie's Health App")}
           </AlertDialogTitle>
           <AlertDialogDescription>
             <div className="space-y-4">
               <p>
                 {t(
                   'aboutDialog.description1',
-                  'SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.'
+                  "Kimmie's Health App: Built for Families. Powered by AI. Track food, fitness, water, and health — together."
                 )}
               </p>
               <p>

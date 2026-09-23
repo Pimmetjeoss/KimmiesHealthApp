@@ -7,7 +7,7 @@ const {
   DEV_BUNDLE_IDENTIFIER,
 } = require('./app.identifiers.js');
 
-const APP_NAME = 'SparkyFitness';
+const APP_NAME = "Kimmie's Health App";
 const APP_SLUG = 'sparkyfitnessmobile';
 const ANDROID_PROD_BUNDLE_IDENTIFIER = 'com.SparkyApps.SparkyFitnessMobile';
 const IOS_PROD_BUNDLE_IDENTIFIER = 'com.SparkyApps.SparkyFitnessMobile';
