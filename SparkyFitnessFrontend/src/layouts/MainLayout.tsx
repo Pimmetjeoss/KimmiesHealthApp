@@ -451,7 +451,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({
           <div className="flex items-center gap-1">
             <img
               src="/images/SparkyFitness.webp"
-              alt="SparkyFitness Logo"
+              alt="Kimmie's Health App Logo"
               width={54}
               height={72}
             />
