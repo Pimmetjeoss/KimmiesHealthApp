@@ -61,9 +61,9 @@ export default defineConfig(({ mode }) => {
         VitePWA({
           registerType: 'autoUpdate',
           manifest: {
-            name: 'SparkyFitness',
-            short_name: 'SparkyFitness',
-            description: 'Your personal fitness companion',
+            name: "Kimmie's Health App",
+            short_name: 'Kimmies',
+            description: "Kim's personal health companion",
             theme_color: '#000000',
             icons: [
               {

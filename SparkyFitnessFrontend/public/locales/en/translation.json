@@ -797,8 +797,8 @@
     "useExternalBmrHint": "Off by default — your chosen formula is always used until you turn this on. When enabled, a BMR recorded on a check-in or synced from a smart scale or health provider replaces the formula for that day, provided it is physiologically plausible for you. Some devices report BMR as a running daily total rather than a rate, which is why this is opt-in."
   },
   "aboutDialog": {
-    "title": "About SparkyFitness",
-    "description1": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+    "title": "About Kimmie's Health App",
+    "description1": "Kimmie's Health App: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
     "applicationVersion": "Application Version: ",
     "joinDiscord": "Join our community on Discord: ",
     "discordLink": "discord.gg/vcnMT5cPEA",
